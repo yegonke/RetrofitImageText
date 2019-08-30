@@ -158,7 +158,6 @@ public class MainActivity extends AppCompatActivity {
                     Snackbar.make(findViewById(R.id.content), "Success",Snackbar.LENGTH_SHORT).show();
 
                 } else {
-
                     ResponseBody errorBody = response.errorBody();
 
                     Gson gson = new Gson();

@@ -1,4 +1,4 @@
-package com.learn2crack.imageupload;
+package yegonke.retrofitimagetext;
 
 import org.junit.Test;
 

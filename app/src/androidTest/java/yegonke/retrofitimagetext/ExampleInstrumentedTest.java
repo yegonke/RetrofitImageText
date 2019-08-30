@@ -1,4 +1,4 @@
-package com.learn2crack.imageupload;
+package yegonke.retrofitimagetext;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
